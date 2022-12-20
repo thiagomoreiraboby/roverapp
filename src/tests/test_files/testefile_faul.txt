@@ -1,0 +1,5 @@
+5 5
+0 0 S
+MMMMMM
+0 0 W
+MMMMMMD
